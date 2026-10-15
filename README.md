@@ -124,7 +124,7 @@ A responsive live sports score application that displays match scores and team d
 - **Features:** Dynamic UI updates, animations, and a responsive layout that works across devices
 - **Tech used:** HTML · CSS · JavaScript · Tailwind CSS
 
-<a href=""https://github.com/BHARATH007154""><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repository" /></a>
+<a href="https://github.com/BHARATH007154"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repository" /></a>
 <a href="https://scoreboard-live--bbharathb569.replit.app/"><img src="https://img.shields.io/badge/Live%20Demo-2ea44f?style=flat-square&logo=netlify&logoColor=white" alt="Live Demo" /></a>
 
 ---
